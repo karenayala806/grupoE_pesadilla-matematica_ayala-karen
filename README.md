@@ -43,6 +43,3 @@ Para consultar el desarrollo completo de Ingeniería de Requerimientos e Ingenie
 
 **Universidad Estatal de Milagro (UNEMI)**
 
-**Grupo E – Introducción a la Ingeniería en Software**
-
-**Proyecto: Pesadilla Matemática**
