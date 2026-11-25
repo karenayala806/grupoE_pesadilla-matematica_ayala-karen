@@ -1,1 +1,1 @@
-# grupoE_pesadilla-matem-tica_karen-ayala
+# grupoE_pesadilla-matematica_karen-ayala
